@@ -10,4 +10,4 @@ Student Result Program
 
 Water Quality Checker
 
-PYTHON PROJECT AND DATA ANALYSIs
+PYTHON PROJECT AND DATA ANALYSIS
